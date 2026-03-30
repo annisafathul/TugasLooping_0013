@@ -22,3 +22,7 @@ bool isFibonacci(int x) {
     }
     return false;
 }
+void inputAngka() {
+    cout << "Masukkan angka: ";
+    cin >> n;
+}
