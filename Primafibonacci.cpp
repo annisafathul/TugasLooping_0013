@@ -46,3 +46,8 @@ void menu() {
 }
 int main() {
     while (true) {
+        menu();
+        cout << "Pilih menu: ";
+        cin >> pilihan;
+    }
+}
