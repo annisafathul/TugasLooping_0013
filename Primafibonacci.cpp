@@ -58,3 +58,6 @@ switch (pilihan) {
    case 2:
         cout << "Menu Fibonacci\n";
         break;
+   case 0:
+        return 0;
+}
