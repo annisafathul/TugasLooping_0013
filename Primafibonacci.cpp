@@ -44,3 +44,5 @@ void menu() {
     cout << "2. Cek Fibonacci\n";
     cout << "0. Keluar\n";
 }
+int main() {
+    while (true) {
