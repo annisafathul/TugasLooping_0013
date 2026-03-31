@@ -38,3 +38,5 @@ void tampilFibonacci() {
     else
         cout << "Bukan Fibonacci\n";
 }
+void menu() {
+    cout << "\n===== MENU =====\n";
