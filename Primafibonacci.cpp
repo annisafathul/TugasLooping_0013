@@ -55,3 +55,6 @@ switch (pilihan) {
    case 1:
         cout << "Menu Prima\n";
         break; 
+   case 2:
+        cout << "Menu Fibonacci\n";
+        break;
