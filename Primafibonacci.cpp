@@ -52,4 +52,6 @@ int main() {
     }
 }
 switch (pilihan) {
-    
+   case 1:
+        cout << "Menu Prima\n";
+        break; 
