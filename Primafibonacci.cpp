@@ -56,7 +56,11 @@ int main() {
             case 2:
                 inputAngka();
                 tampilFibonacci();
-                break;      
+                break; 
+            case 0:
+                cout << "Program selesai\n";
+                return 0;    
+
 }
 
 }
