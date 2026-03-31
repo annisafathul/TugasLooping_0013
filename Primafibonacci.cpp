@@ -40,3 +40,4 @@ void tampilFibonacci() {
 }
 void menu() {
     cout << "\n===== MENU =====\n";
+    cout << "1. Cek Prima\n";
