@@ -51,3 +51,5 @@ int main() {
         cin >> pilihan;
     }
 }
+switch (pilihan) {
+    
