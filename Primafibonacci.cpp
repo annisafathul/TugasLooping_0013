@@ -49,15 +49,11 @@ int main() {
         menu();
         cout << "Pilih menu: ";
         cin >> pilihan;
-    }
+        switch (pilihan) {
+            case 1:
+                inputAngka();
+                tampilPrima();
+                  
 }
-switch (pilihan) {
-   case 1:
-        cout << "Menu Prima\n";
-        break; 
-   case 2:
-        cout << "Menu Fibonacci\n";
-        break;
-   case 0:
-        return 0;
+
 }
