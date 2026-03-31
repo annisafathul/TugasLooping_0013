@@ -32,3 +32,9 @@ void tampilPrima() {
     else
         cout << "Bukan Prima\n";
 }
+void tampilFibonacci() {
+    if (isFibonacci(n))
+        cout << "Fibonacci\n";
+    else
+        cout << "Bukan Fibonacci\n";
+}
