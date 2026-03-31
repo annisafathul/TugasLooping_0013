@@ -53,7 +53,10 @@ int main() {
             case 1:
                 inputAngka();
                 tampilPrima();
-                  
+            case 2:
+                inputAngka();
+                tampilFibonacci();
+                break;      
 }
 
 }
