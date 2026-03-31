@@ -26,3 +26,9 @@ void inputAngka() {
     cout << "Masukkan angka: ";
     cin >> n;
 }
+void tampilPrima() {
+    if (isPrima(n))
+        cout << "Bilangan Prima\n";
+    else
+        cout << "Bukan Prima\n";
+}
